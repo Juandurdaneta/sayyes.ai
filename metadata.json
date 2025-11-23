@@ -1,0 +1,5 @@
+{
+  "name": "SayYes.ai - Client Capture & Proposal Engine",
+  "description": "A B2B wedding planner platform featuring Agent 16 (Client Intake) and Agent 15 (Proposal Studio) powered by Gemini. Generates Style DNA and multi-mode proposals.",
+  "requestFramePermissions": []
+}
